@@ -21,7 +21,7 @@
   * Future software engineer and tech guy in the maxing
   * Ask me about help within CS or post your ideas/queries [here](https://github.com/mar-jac/mar-jac/issues/new) 
   
-  [![mar-jac's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mar-jac)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mar-jac)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### Reach Me 📠
