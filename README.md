@@ -19,7 +19,10 @@
 
   * I code in Python, Java, and JavaScript
   * Future software engineer and tech guy in the maxing
-  * Ask me about help within CS or post your ideas/queries [here](https://github.com/navchandar/mar-jac/issues/new) 
+  * Ask me about help within CS or post your ideas/queries [here](https://github.com/mar-jac/mar-jac/issues/new) 
+  
+  [![mar-jac's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mar-jac)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #### Reach Me 📠
 [![Linkedin Badge](https://img.shields.io/badge/-mar-jac-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mar-jac//)](https://www.linkedin.com/in/mar-jac/) 
