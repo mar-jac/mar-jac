@@ -12,7 +12,6 @@
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
 ### Hello There 🙋🏻‍♂️  I'm [mar-jac](https://porfolio.mar-jac.cf)
 
 <a href="https://github.com/mar-jac?tab=repositories"><img align="right" width=22% src="https://github-readme-stats.vercel.app/api/top-langs/?username=marjac&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
