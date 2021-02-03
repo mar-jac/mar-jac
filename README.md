@@ -15,8 +15,8 @@
 ### Hi there 👋
 ### Hello There 🙋🏻‍♂️  I'm [mar-jac](https://porfolio.mar-jac.cf)
 
-<a href="https://github.com/mar-jac?tab=repositories"><img align="right" width=22% src="https://github-readme-stats.vercel.app/api/top-langs/?username=navchandar&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-<a target="_blank" href="https://navchandar.github.io"><img align="right" width=38% src="https://github-readme-stats.vercel.app/api?username=navchandar&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"></a>
+<a href="https://github.com/mar-jac?tab=repositories"><img align="right" width=22% src="https://github-readme-stats.vercel.app/api/top-langs/?username=marjac&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+<a target="_blank" href="https://mar-jac.github.io"><img align="right" width=38% src="https://github-readme-stats.vercel.app/api?username=mar-jac&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"></a>
 
   * I code in Python, Java, and JavaScript
   * Future software engineer and tech guy in the maxing
