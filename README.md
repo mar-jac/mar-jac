@@ -17,8 +17,6 @@
   * Future software engineer and tech guy in the making
   * Ask me about help within CS or post your ideas/queries [here](https://github.com/mar-jac/mar-jac/issues/new) 
   
-[![mar-jac's GitHub stats](https://github-readme-stats.vercel.app/api?username=mar-jac)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Current Languages & Technologies Focused On
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
@@ -48,15 +46,11 @@ JSON         28 mins         ████░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+[![mar-jac's GitHub stats](https://github-readme-stats.vercel.app/api?username=mar-jac)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/mar-jac">
-<img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=mar-jac&theme=great-gatsby" alt="GitHub Stats" title="GitHub Streak" />
+<img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=mar-jac" alt="GitHub Stats" title="GitHub Streak" />
 </a> 
-
-<a href="https://github.com/mar-jac">
-<img align="center" position="relative" top=100px src="https://github-readme-stats.vercel.app/api?username=mar-jac&show_icons=true&count_private=true&hide=stars&theme=great-gatsby&custom_title=mar-jac%27s%20Overall%20GitHub%20Stats" alt="GitHub Stats" title="GitHub Stats"/>
-</a> 
-
 <!-- <a href="https://github.com/mar-jac">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mar-jac&theme=great-gatsby&langs_count=7&hide=hack&custom_title=ma-jac%27s%20Most%20Used%20Languages" alt="Most Used Languages" title="Most Used Languages" />
 </a> -->
