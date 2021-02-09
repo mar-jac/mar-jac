@@ -59,6 +59,6 @@ JSON         28 mins         ████░░░░░░░░░░░░░
 </a> 
 
 <!-- <a href="https://github.com/jacgit18">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mar-jac&theme=great-gatsby&langs_count=7&hide=hack&custom_title=Joshua%27s%20Most%20Used%20Languages" alt="Most Used Languages" title="Most Used Languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mar-jac&theme=great-gatsby&langs_count=7&hide=hack&custom_title=ma-jac%27s%20Most%20Used%20Languages" alt="Most Used Languages" title="Most Used Languages" />
 </a> -->
 
