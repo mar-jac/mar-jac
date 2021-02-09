@@ -39,8 +39,8 @@
 [![Java Badge](https://img.shields.io/badge/-Java-ff7b00?style=for-the-badge&labelColor=black&logo=java&logoColor=orange)](#) 
 
 #### Reach Me 📠
-[![Linkedin Badge](https://img.shields.io/badge/-mar-jac-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mar-jac/)](https://www.linkedin.com/in/mar-jac/) 
-[![Portfolio Badge](https://img.shields.io/badge/-mar-jac-24292e?style=flat-square&logo=Github&logoColor=white&link=https://mar-jac.github.io/)](https://mar-jac.github.io/) '
+[![Linkedin]()](https://www.linkedin.com/in/mar-jac/) 
+[![Portfolio]()](http://mar-jac.cf/) '
 
 <!--START_SECTION:waka-->
 ```text
