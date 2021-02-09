@@ -55,7 +55,7 @@ JSON         28 mins         ████░░░░░░░░░░░░░
 </a> 
 
 <a href="https://github.com/mar-jac">
-<img align="center" position="relative" top=100px src="https://github-readme-stats.vercel.app/api?username=mar-jac&show_icons=true&count_private=true&hide=stars&theme=great-gatsby&custom_title=%27s%20Overall%20GitHub%20Stats" alt="GitHub Stats" title="GitHub Stats"/>
+<img align="center" position="relative" top=100px src="https://github-readme-stats.vercel.app/api?username=mar-jac&show_icons=true&count_private=true&hide=stars&theme=great-gatsby&custom_title=mar-jac%27s%20Overall%20GitHub%20Stats" alt="GitHub Stats" title="GitHub Stats"/>
 </a> 
 
 <!-- <a href="https://github.com/mar-jac">
