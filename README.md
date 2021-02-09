@@ -50,15 +50,15 @@ JSON         28 mins         ████░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-<a href="https://github.com/jacgit18">
+<a href="https://github.com/mar-jac">
 <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=mar-jac&theme=great-gatsby" alt="GitHub Stats" title="GitHub Streak" />
 </a> 
 
-<a href="https://github.com/jacgit18">
-<img align="center" position="relative" top=100px src="https://github-readme-stats.vercel.app/api?username=mar-jac&show_icons=true&count_private=true&hide=stars&theme=great-gatsby&custom_title=Joshua%27s%20Overall%20GitHub%20Stats" alt="GitHub Stats" title="GitHub Stats"/>
+<a href="https://github.com/mar-jac">
+<img align="center" position="relative" top=100px src="https://github-readme-stats.vercel.app/api?username=mar-jac&show_icons=true&count_private=true&hide=stars&theme=great-gatsby&custom_title=%27s%20Overall%20GitHub%20Stats" alt="GitHub Stats" title="GitHub Stats"/>
 </a> 
 
-<!-- <a href="https://github.com/jacgit18">
+<!-- <a href="https://github.com/mar-jac">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mar-jac&theme=great-gatsby&langs_count=7&hide=hack&custom_title=ma-jac%27s%20Most%20Used%20Languages" alt="Most Used Languages" title="Most Used Languages" />
 </a> -->
 
