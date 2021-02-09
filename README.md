@@ -40,7 +40,6 @@
 
 #### Reach Me 📠
 [![Linkedin]()](https://www.linkedin.com/in/mar-jac/) 
-[![Portfolio]()](http://mar-jac.cf/) '
 
 <!--START_SECTION:waka-->
 ```text
