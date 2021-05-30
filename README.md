@@ -14,9 +14,25 @@
 
 ### Hello There 🙋🏻‍♂️  I'm [mar-jac](http://mar-jac.cf)
   * I code in Python, Java, and JavaScript
-  * Future software engineer and tech guy in the making
+  * Software engineer, apprentice systems tech engineer, upcoming prodcution engineer, a guy who loves too much tech in his free time.
   * Ask me about help within CS or post your ideas/queries [here](https://github.com/mar-jac/mar-jac/issues/new) 
-  
+
+  - 🔭 I’m currently working on a system management based on working on Linux Bash.
+  - 🌱 I’m currently learning system administration and relation to Linux systems.
+  - 💬 Ask me about anything! Projects. Languages. Any questions about my work! Love to know and how to improve!
+  - 📫 How to reach me: email, LinkedIn
+  - 😄 Pronouns: He/him
+  - ⚡ Fun fact: Love writing analytical essays about anime I'm currently watching on my free time. Trying to learn the sax to my favorite music.
+
+### 💖 What I love doing...
+ * Full stack web development
+ * Learning about Education Techology
+ * UI/UX Design
+ * Designing and managing creative and technical projects
+ * Making sure systems and networks are working as reliable as possible
+ * Teaching and mentoring others in the world of tech and systems
+ 🌟 I am always open to chat, just shoot me an email!
+
 ### Current Languages & Technologies Focused On
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
@@ -37,7 +53,9 @@
 [![Java Badge](https://img.shields.io/badge/-Java-ff7b00?style=for-the-badge&labelColor=black&logo=java&logoColor=orange)](#) 
 
 #### Reach Me 📠
-[![Linkedin]()](https://www.linkedin.com/in/mar-jac/) 
+ <a href="https://www.linkedin.com/in/mar-jac/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
 
 <!--START_SECTION:waka-->
 ```text
@@ -46,12 +64,86 @@ JSON         28 mins         ████░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-[![mar-jac's GitHub stats](https://github-readme-stats.vercel.app/api?username=mar-jac)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mar-jac&show_icons=true&count_private=true&theme=light" "></a>
+</p>
+                
+<p align='center'>
 <a href="https://github.com/mar-jac">
-<img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=mar-jac" alt="GitHub Stats" title="GitHub Streak" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mar-jac" alt="GitHub Stats" title="GitHub Streak" />
 </a> 
-<!-- <a href="https://github.com/mar-jac">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mar-jac&theme=great-gatsby&langs_count=7&hide=hack&custom_title=ma-jac%27s%20Most%20Used%20Languages" alt="Most Used Languages" title="Most Used Languages" />
-</a> -->
+</p>
+
+<p align='center'>
+  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+</p>
+
+<details>
+  <summary>📃 Resume</summary>
+
+
+## Education
+
+- 📖 **Software Engineering**\
+📆 Graduated Dec 2020\
+📍 **Brooklyn College** - New York, United States
+
+## Experience
+
+<img align="right" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
+
+- 👨‍💻 **Apprentic Systems Tech Engineer**\
+📆 2021 - Moment\
+📍 **Facebook** - New York, United States
+
+<img align="right" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+
+- 👨‍💻 **Software Engineer Intern**\
+📆 2020-2021\
+📍 **CUNY Tech Prep** - New York, United States
+
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="right" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+
+- 👨‍💻 **Technical Support Engineer**\
+📆 2018-2021\
+📍 **Brooklyn College** - New York, United States
+
+<img align="right" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />
+
+
+- 👨‍💻 **IT Intern**\
+📆 2015 - 2015\
+📍 **NYC Administration for Children's Services** - New York, United States
+
+
+<img align="right" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="right" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img align="right" src"https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+
+
+ **Code**
+
+<img align="right" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img align="right" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+
+ **Operating Systems**
+
+</details>
 
