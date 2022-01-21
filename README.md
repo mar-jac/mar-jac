@@ -14,10 +14,10 @@
 
 ### Hello There 🙋🏻‍♂️  I'm [mar-jac](http://mar-jac.cf)
   * I code in Python, Java, and JavaScript
-  * Software engineer, apprentice systems tech engineer, upcoming prodcution engineer, a guy who loves too much tech in his free time.
+  * Software engineer, apprentice systems tech engineer, prodcution/systems engineer, a guy who loves too much tech in his free time.
   * Ask me about help within CS or post your ideas/queries [here](https://github.com/mar-jac/mar-jac/issues/new) 
 
-  - 🔭 I’m currently working on a system management based on working on Linux Bash.
+  - 🔭 I’m currently working on a system management based on working on Linux Bash and creating automation with Chef.
   - 🌱 I’m currently learning system administration and relation to Linux systems.
   - 💬 Ask me about anything! Projects. Languages. Any questions about my work! Love to know and how to improve!
   - 📫 How to reach me: email, LinkedIn
@@ -26,7 +26,7 @@
 
 ### 💖 What I love doing...
  * Full stack web development
- * Learning about Education Techology
+ * Learning about systems and new technology
  * UI/UX Design
  * Designing and managing creative and technical projects
  * Making sure systems and networks are working as reliable as possible
@@ -128,11 +128,9 @@ JSON         28 mins         ████░░░░░░░░░░░░░
       
 <img align="right" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="right" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img align="right" src"https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 
  **Code**
