@@ -39,8 +39,8 @@
 
 **Frameworks**
 
-[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-ffffff?style=for-the-badge&labelColor=6610f2&logo=bootstrap&logoColor=ffffff)](#)
-[![Express.js Badge](https://img.shields.io/badge/-Express.js-ffffff?style=for-the-badge&labelColor=black&logo=express&logoColor=ffffff)](#)
+[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-ffffff?style=for-the-badge&labelColor=6610f2&logo=bootstrap&logoColor=#E6E6FA)](#)
+[![Express.js Badge](https://img.shields.io/badge/-Express.js-ffffff?style=for-the-badge&labelColor=black&logo=express&logoColor=DCDCDC)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 
 **Databases**
