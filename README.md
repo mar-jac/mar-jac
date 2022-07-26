@@ -51,7 +51,8 @@
 [![Java Badge](https://img.shields.io/badge/-Java-ff7b00?style=for-the-badge&labelColor=black&logo=java&logoColor=orange)](#) 
 
 <details>
-    📃<title> Resume </title> 
+  
+  <title> 📃 Resume </title> 
   
 ## Experience
 
