@@ -73,7 +73,7 @@ JSON         28 mins         ████░░░░░░░░░░░░░
 </p>
 
 <details>
-  <summary>📃 Resume</summary>
+<summary>📃## Resume</summary>
 
 
 ## Education
