@@ -115,6 +115,8 @@
 
 </details>
 
+<hr/>
+### GitHub Stats
 
 <!--START_SECTION:waka-->
 ```text
