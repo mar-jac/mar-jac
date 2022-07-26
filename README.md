@@ -50,30 +50,8 @@
 [![HTML Badge](https://img.shields.io/badge/-HTML-ffffff?style=for-the-badge&labelColor=ffffff&logo=html5&logoColor=orange)](#) 
 [![Java Badge](https://img.shields.io/badge/-Java-ff7b00?style=for-the-badge&labelColor=black&logo=java&logoColor=orange)](#) 
 
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   2 hrs 24 mins   ████████████████████▓░░░░   83.02 % 
-JSON         28 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-```
-<!--END_SECTION:waka-->
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mar-jac&show_icons=true&count_private=true&theme=light" "></a>
-</p>
-                
-<p align='center'>
-<a href="https://github.com/mar-jac">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mar-jac" alt="GitHub Stats" title="GitHub Streak" />
-</a> 
-</p>
-
-<p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-</p>
-
 <details>
-<summary>📃## Resume</summary>
+    <summary>📃<b> Resume </b> </summary>
 
 
 ## Education
@@ -136,4 +114,27 @@ JSON         28 mins         ████░░░░░░░░░░░░░
 
 
 </details>
+
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   2 hrs 24 mins   ████████████████████▓░░░░   83.02 % 
+JSON         28 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+```
+<!--END_SECTION:waka-->
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=mar-jac&show_icons=true&count_private=true&theme=light" "></a>
+</p>
+                
+<p align='center'>
+<a href="https://github.com/mar-jac">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mar-jac" alt="GitHub Stats" title="GitHub Streak" />
+</a> 
+</p>
+
+<p align='center'>
+  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+</p>
+
 
