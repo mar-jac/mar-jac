@@ -33,8 +33,8 @@
  
 **Languages**
 
-[![Bash Badge](https://img.shields.io/badge/-Bash-f2bf18?style=for-the-badge&labelColor=black&logo=linux&logoColor=white)](#)
-[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Bash Badge](https://img.shields.io/badge/-Bash-f2bf18?style=for-the-badge&labelColor=black&logo=linux&logoColor=blue)](#)
+[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](#)
 [![Ruby Badge](https://img.shields.io/badge/Ruby-e0115f?style=for-the-badge&logo=ruby&logoColor=white)](#)
 
 **Frameworks**
@@ -58,7 +58,7 @@
 
 <details> 
   
-  <summary> 📃 <h1> Resume <h1> </summary> 
+  <summary> 📃 <h2> Resume <h2> </summary> 
   
 ## Experience
 
