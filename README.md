@@ -52,6 +52,7 @@
 
 <details>
     <summary>📃<b> Resume </b> </summary>
+  
 ## Experience
 
 <img align="right" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
