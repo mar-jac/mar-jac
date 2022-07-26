@@ -30,27 +30,31 @@
  * Teaching and mentoring others in the world of tech and systems
  * Ask me about help within CS or post your ideas/queries: [Ideas](https://github.com/mar-jac/mar-jac/issues/new) 
  🌟 I am always open to chat, just shoot me an email!
+ 
+**Languages**
+[![Bash Badge](https://img.shields.io/badge/-Bash-f2bf18?style=for-the-badge&labelColor=black&logo=linux&logoColor=white)](#)
+[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Ruby Badge](https://img.shields.io/badge/Ruby-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 
-### Current Languages & Technologies Focused On
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-
-### Frameworks Worked Wtih 
+**Frameworks**
 [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-ffffff?style=for-the-badge&labelColor=6610f2&logo=bootstrap&logoColor=ffffff)](#)
 [![Express.js Badge](https://img.shields.io/badge/-Express.js-ffffff?style=for-the-badge&labelColor=black&logo=express&logoColor=ffffff)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 
-### Tech Added to Workflow
+**Databases**
 [![Heroku Badge](https://img.shields.io/badge/-Heroku-ffffff?style=for-the-badge&labelColor=79589f&logo=heroku&logoColor=ffffff)](#) 
 [![Postgresql Badge](https://img.shields.io/badge/-Postgresql-336791?style=for-the-badge&labelColor=ffffff&logo=postgresql&logoColor=336791)](#)
 
-### Other Languages Proficient & Worked With 
-[![Bash Badge](https://img.shields.io/badge/-Bash-f2bf18?style=for-the-badge&labelColor=black&logo=linux&logoColor=white)](#)
+**Other** 
 [![CSS Badge](https://img.shields.io/badge/-CSS-ffffff?style=for-the-badge&labelColor=ffffff&logo=css3&logoColor=007bff)](#) 
 [![HTML Badge](https://img.shields.io/badge/-HTML-ffffff?style=for-the-badge&labelColor=ffffff&logo=html5&logoColor=orange)](#) 
 [![Java Badge](https://img.shields.io/badge/-Java-ff7b00?style=for-the-badge&labelColor=black&logo=java&logoColor=orange)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 
-<details> <title> 📃 Resume </title> 
+<details> 
+  
+  <summary> 📃 Resume </summary> 
   
 ## Experience
 
