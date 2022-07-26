@@ -35,7 +35,7 @@
 
 [![Bash Badge](https://img.shields.io/badge/-Bash-f2bf18?style=for-the-badge&labelColor=black&logo=linux&logoColor=blue)](#)
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)](#)
-[![Ruby Badge](https://img.shields.io/badge/Ruby-e0115f?style=for-the-badge&logo=ruby&logoColor=white)](#)
+[![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](#)
 
 **Frameworks**
 
@@ -45,8 +45,8 @@
 
 **Databases**
 
-[![Heroku Badge](https://img.shields.io/badge/-Heroku-ffffff?style=for-the-badge&labelColor=79589f&logo=heroku&logoColor=ffffff)](#) 
-[![Postgresql Badge](https://img.shields.io/badge/-Postgresql-336791?style=for-the-badge&labelColor=ffffff&logo=postgresql&logoColor=336791)](#)
+[![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#) 
+[![Postgresql Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 
 **Other** 
 
