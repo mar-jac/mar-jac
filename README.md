@@ -51,7 +51,7 @@
 [![Java Badge](https://img.shields.io/badge/-Java-ff7b00?style=for-the-badge&labelColor=black&logo=java&logoColor=orange)](#) 
 
 <details>
-    <summary>📃<b> Resume </b> </summary>
+    <summary>📃<title> Resume </title> </summary>
   
 ## Experience
 
@@ -96,6 +96,8 @@
 - 📖 **Multimedia Computing**\
 📆   Dec 2020\
 📍 **Brooklyn College** - New York, United States
+  
+ ## Skills
 
 <img align="right" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -104,7 +106,7 @@
 <img align="right" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 
-## Skills  
+  
   **Languages**
   
 <img align="right" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
