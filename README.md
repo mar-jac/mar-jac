@@ -78,7 +78,7 @@ JSON         28 mins         ████░░░░░░░░░░░░░
 
 ## Education
 
-- 📖 **Software Engineering**\
+- 📖 **Multimedia Computing**\
 📆   Dec 2020\
 📍 **Brooklyn College** - New York, United States
 
