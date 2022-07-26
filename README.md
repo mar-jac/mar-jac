@@ -32,20 +32,24 @@
  🌟 I am always open to chat, just shoot me an email!
  
 **Languages**
+
 [![Bash Badge](https://img.shields.io/badge/-Bash-f2bf18?style=for-the-badge&labelColor=black&logo=linux&logoColor=white)](#)
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Ruby Badge](https://img.shields.io/badge/Ruby-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Ruby Badge](https://img.shields.io/badge/Ruby-e0115f?style=for-the-badge&logo=ruby&logoColor=white)](#)
 
 **Frameworks**
+
 [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-ffffff?style=for-the-badge&labelColor=6610f2&logo=bootstrap&logoColor=ffffff)](#)
 [![Express.js Badge](https://img.shields.io/badge/-Express.js-ffffff?style=for-the-badge&labelColor=black&logo=express&logoColor=ffffff)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 
 **Databases**
+
 [![Heroku Badge](https://img.shields.io/badge/-Heroku-ffffff?style=for-the-badge&labelColor=79589f&logo=heroku&logoColor=ffffff)](#) 
 [![Postgresql Badge](https://img.shields.io/badge/-Postgresql-336791?style=for-the-badge&labelColor=ffffff&logo=postgresql&logoColor=336791)](#)
 
 **Other** 
+
 [![CSS Badge](https://img.shields.io/badge/-CSS-ffffff?style=for-the-badge&labelColor=ffffff&logo=css3&logoColor=007bff)](#) 
 [![HTML Badge](https://img.shields.io/badge/-HTML-ffffff?style=for-the-badge&labelColor=ffffff&logo=html5&logoColor=orange)](#) 
 [![Java Badge](https://img.shields.io/badge/-Java-ff7b00?style=for-the-badge&labelColor=black&logo=java&logoColor=orange)](#) 
@@ -54,7 +58,7 @@
 
 <details> 
   
-  <summary> 📃 Resume </summary> 
+  <summary> 📃 <h1> Resume <h1> </summary> 
   
 ## Experience
 
