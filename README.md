@@ -10,18 +10,17 @@
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m mar-jac, a systems tech engineer.
+### 👋 Hi, I’m mar-jac, a systems tech engineer.
 - 💼 I’m an apprentice systems tech engineer at Meta/Facebook on the EE OSCore and Enterprise Engineering team.
 - 📫 [LinkedIn](https://www.linkedin.com/in/mar-jac/) | [Email: mar.jacq0296@gmail.com](mailto:mar.jacq0296@gmail.com)
-
-  * Ask me about help within CS or post your ideas/queries [here](https://github.com/mar-jac/mar-jac/issues/new) 
-
-  - 🔭 I’m currently working on a system management based on working on Linux Bash and creating automation with Chef.
-  - 🌱 I’m currently learning the infrastucture Linux systems and working on creating application configurations.
-  - 💬 Ask me about anything! Projects. Languages. Any questions about my work! Love to know and how to improve!
-  - 📫 How to reach me: Email, LinkedIn
-  - 😄 Pronouns: He/him
-  - ⚡ Fun fact: Love writing analytical essays about anime I'm currently watching on my free time. Trying to learn the sax to my favorite music.
+  
+### About Me
+- 🔭 I’m currently working on a system management based on working on Linux Bash and creating automation with Chef.
+- 🌱 I’m currently learning the infrastucture Linux systems and working on creating application configurations.
+- 💬 Ask me about anything! Projects. Languages. Any questions about my work! Love to know and how to improve!
+- 📫 How to reach me: Email, LinkedIn
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: Love writing analytical essays about anime I'm currently watching on my free time. Trying to learn the sax to my favorite music.
 
 ### 💖 What I love doing...
  * Full-stack web development
@@ -29,6 +28,7 @@
  * Deploying configurations in Python and Ruby
  * Ensuring security compliance on infrastructure
  * Teaching and mentoring others in the world of tech and systems
+ * Ask me about help within CS or post your ideas/queries: [Ideas](https://github.com/mar-jac/mar-jac/issues/new) 
  🌟 I am always open to chat, just shoot me an email!
 
 ### Current Languages & Technologies Focused On
