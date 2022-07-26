@@ -50,10 +50,6 @@
 [![HTML Badge](https://img.shields.io/badge/-HTML-ffffff?style=for-the-badge&labelColor=ffffff&logo=html5&logoColor=orange)](#) 
 [![Java Badge](https://img.shields.io/badge/-Java-ff7b00?style=for-the-badge&labelColor=black&logo=java&logoColor=orange)](#) 
 
-#### Reach Me 📠
- <a href="https://www.linkedin.com/in/mar-jac/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
 
 <!--START_SECTION:waka-->
 ```text
@@ -119,7 +115,7 @@ JSON         28 mins         ████░░░░░░░░░░░░░
 <img align="right" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" />
 
 
-- 👨‍💻 **IT Intern**\
+- 👨‍💻 **Information Technology Intern**\
 📆 2015 - 2015\
 📍 **NYC Administration for Children's Services** - New York, United States
    
@@ -132,8 +128,7 @@ JSON         28 mins         ████░░░░░░░░░░░░░
 <img align="right" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
 
  **Code**
-
-<img align="right" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+   
 <img align="right" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
