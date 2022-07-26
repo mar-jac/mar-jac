@@ -52,14 +52,6 @@
 
 <details>
     <summary>📃<b> Resume </b> </summary>
-
-
-## Education
-
-- 📖 **Multimedia Computing**\
-📆   Dec 2020\
-📍 **Brooklyn College** - New York, United States
-
 ## Experience
 
 <img align="right" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
@@ -104,6 +96,13 @@
 <img align="right" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="right" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+
+
+## Education
+
+- 📖 **Multimedia Computing**\
+📆   Dec 2020\
+📍 **Brooklyn College** - New York, United States
 
  **Code**
    
