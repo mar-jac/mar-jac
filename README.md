@@ -142,4 +142,6 @@ JSON         28 mins         ████░░░░░░░░░░░░░
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
 
-<img align="center" src="https://user-images.githubusercontent.com/55053226/181595310-16556273-ed2e-4a56-b65b-231363ff5895.png" />
+<p align='center>
+<img src="https://user-images.githubusercontent.com/55053226/181595310-16556273-ed2e-4a56-b65b-231363ff5895.png" />
+</p>
