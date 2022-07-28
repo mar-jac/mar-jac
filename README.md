@@ -143,5 +143,5 @@ JSON         28 mins         ████░░░░░░░░░░░░░
 </p>
 
 <p align='center>
-<img src="https://user-images.githubusercontent.com/55053226/181595310-16556273-ed2e-4a56-b65b-231363ff5895.png" />
+<img src="https://user-images.githubusercontent.com/55053226/181595310-16556273-ed2e-4a56-b65b-231363ff5895.png" >
 </p>
