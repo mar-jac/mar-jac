@@ -22,6 +22,10 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Love writing analytical essays about anime I'm currently watching on my free time. Trying to learn the sax to my favorite music.
 
+<p align='center'>
+<img src="[https://user-images.githubusercontent.com/55053226/181595310-16556273-ed2e-4a56-b65b-231363ff5895.png](https://c.tenor.com/NvTh_ZMUNM4AAAAC/kobayashi-kobayashi-dragon-maid.gif)" >
+</p>
+
 ### 💖 What I love doing...
  * Full-stack web development
  * UI/UX Design
@@ -143,5 +147,5 @@ JSON         28 mins         ████░░░░░░░░░░░░░
 </p>
 
 <p align='center'>
-<img src="https://user-images.githubusercontent.com/55053226/181595310-16556273-ed2e-4a56-b65b-231363ff5895.png" >
+<img src="https://c.tenor.com/gTjXmU6ZHsIAAAAC/thumbs-up-chew.gif" >
 </p>
