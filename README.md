@@ -23,7 +23,7 @@
 - ⚡ Fun fact: Love writing analytical essays about anime I'm currently watching on my free time. Trying to learn the sax to my favorite music.
 
 <p align='center'>
-<img src="[https://user-images.githubusercontent.com/55053226/181595310-16556273-ed2e-4a56-b65b-231363ff5895.png](https://c.tenor.com/NvTh_ZMUNM4AAAAC/kobayashi-kobayashi-dragon-maid.gif)" >
+<img src="https://c.tenor.com/NvTh_ZMUNM4AAAAC/kobayashi-kobayashi-dragon-maid.gif" >
 </p>
 
 ### 💖 What I love doing...
