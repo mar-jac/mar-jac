@@ -22,10 +22,6 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Love writing analytical essays about anime I'm currently watching on my free time. Trying to learn the sax to my favorite music.
 
-<p align='center'>
-<img src="https://c.tenor.com/NvTh_ZMUNM4AAAAC/kobayashi-kobayashi-dragon-maid.gif" >
-</p>
-
 ### 💖 What I love doing...
  * Full-stack web development
  * UI/UX Design
@@ -35,6 +31,9 @@
  * Ask me about help within CS or post your ideas/queries: [Ideas](https://github.com/mar-jac/mar-jac/issues/new) 
  🌟 I am always open to chat, just shoot me an email!
  
+ <p align='center'>
+<img src="https://c.tenor.com/NvTh_ZMUNM4AAAAC/kobayashi-kobayashi-dragon-maid.gif" >
+</p>
  
  <hr/>
  
