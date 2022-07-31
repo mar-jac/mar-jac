@@ -15,8 +15,8 @@
 - 📫 [LinkedIn](https://www.linkedin.com/in/mar-jac/) | [Email: mar.jacq0296@gmail.com](mailto:mar.jacq0296@gmail.com)
   
 ### About Me
-- 🔭 I’m currently working on a system management based on working on Linux Bash and creating automation with Chef.
-- 🌱 I’m currently learning the infrastucture Linux systems and working on creating application configurations.
+-🔭 I’m currently working on system management based on working on Linux Bash and creating automation with Chef.
+-🌱 I’m currently learning the infrastructure of Linux systems and working on creating application configurations.
 - 💬 Ask me about anything! Projects. Languages. Any questions about my work! Love to know and how to improve!
 - 📫 How to reach me: Email, LinkedIn
 - 😄 Pronouns: He/him
