@@ -37,12 +37,11 @@
  
  <hr/>
  
-
+ 
+<details> 
   
-  <summary> 📃 <h3> Resume <h3> </summary> 
-  
- <details> 
-  
+  <summary>  <h3> 📃 Resume <h3> </summary> 
+   
 ## Experience
 
 <img align="right" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
