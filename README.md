@@ -37,9 +37,11 @@
  
  <hr/>
  
- <details> 
+
   
   <summary> 📃 <h3> Resume <h3> </summary> 
+  
+ <details> 
   
 ## Experience
 
