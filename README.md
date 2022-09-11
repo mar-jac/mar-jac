@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hi, I’m mar-jac, a systems tech engineer.
+### 👋 Hi, I’m mar-jac, a systems engineer.
 - 💼 I’m an apprentice systems tech engineer at Meta/Facebook on the EE OSCore and Enterprise Engineering team.
 - 📫 [LinkedIn](https://www.linkedin.com/in/mar-jac/) | [Email: mar.jacq0296@gmail.com](mailto:mar.jacq0296@gmail.com)
   
