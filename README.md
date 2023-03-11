@@ -66,7 +66,7 @@
 <img align="right" src"https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 - 👨‍💻 **Software Engineer Intern**\
-📆 2020-2021\
+📆 2020 - 2021\
 📍 **CUNY Tech Prep** - New York, United States
    
 <img align="right" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
@@ -75,7 +75,7 @@
 
 
 - 👨‍💻 **Technical Support Engineer**\
-📆 2018-2021\
+📆 2018 - 2021\
 📍 **Brooklyn College** - New York, United States
 
 <img align="right" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -91,7 +91,7 @@
 ## Education
 
 - 📖 **Multimedia Computing**\
-📆   Dec 2020\
+📆   2020\
 📍 **Brooklyn College** - New York, United States
   
  ## Skills
