@@ -43,11 +43,19 @@
   <summary>  <h3> 📃 Resume <h3> </summary> 
    
 ## Experience
+    
+<img align="right" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)" />
+<img align="right" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+    
+- 👨‍💻 **Enterprise Systems Engineer**\
+📆 2022 - Present\
+📍 **Meta (Facebook)** - New York, United States
 
 <img align="right" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
 
 - 👨‍💻 **Apprentic Systems Tech Engineer**\
-📆 2021 - Current\
+📆 2021 - 2022\
 📍 **Meta (Facebook)** - New York, United States
    
 <img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
